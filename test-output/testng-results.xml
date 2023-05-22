@@ -2,15 +2,15 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="5695" started-at="2023-02-19T17:36:25 GMT" finished-at="2023-02-19T17:36:31 GMT">
+  <suite name="Default suite" duration-ms="8621" started-at="2023-03-28T18:46:22 BST" finished-at="2023-03-28T18:46:30 BST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="5695" started-at="2023-02-19T17:36:25 GMT" finished-at="2023-02-19T17:36:31 GMT">
+    <test name="Default test" duration-ms="8621" started-at="2023-03-28T18:46:22 BST" finished-at="2023-03-28T18:46:30 BST">
       <class name="test.LoginPageTest">
-        <test-method status="PASS" signature="validUserShouldLogin()[pri:0, instance:test.LoginPageTest@4b1c1ea0]" name="validUserShouldLogin" duration-ms="5626" started-at="2023-02-19T17:36:25 GMT" finished-at="2023-02-19T17:36:31 GMT">
+        <test-method status="PASS" signature="validUserShouldBeLogin()[pri:0, instance:test.LoginPageTest@1f57539]" name="validUserShouldBeLogin" duration-ms="8543" started-at="2023-03-28T18:46:22 BST" finished-at="2023-03-28T18:46:30 BST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- validUserShouldLogin -->
+        </test-method> <!-- validUserShouldBeLogin -->
       </class> <!-- test.LoginPageTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
